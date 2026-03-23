@@ -1,0 +1,18 @@
+dist/
+node_modules/
+logs/
+.vercel
+
+# Database files
+data/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+
+# Debug logs
+logs*.txt
